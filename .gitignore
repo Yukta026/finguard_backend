@@ -17,11 +17,7 @@ venv/
 .vscode/
 .idea/
 
-# Model or data artifacts
-*.pkl
-*.pickle
-*.joblib
-*.csv
+
 
 # Misc
 *.sqlite3
