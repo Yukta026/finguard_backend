@@ -1,0 +1,27 @@
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment folders
+venv/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Model or data artifacts
+*.pkl
+*.pickle
+*.joblib
+*.csv
+
+# Misc
+*.sqlite3
